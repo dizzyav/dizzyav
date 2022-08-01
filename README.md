@@ -1,0 +1,8 @@
+- @dizzyav on here
+- @dizzy_af on twitter
+- dizzy#5043 on discord
+- Learning python, messing about
+<!---
+dizzyav/dizzyav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
