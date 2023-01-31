@@ -1,5 +1,4 @@
-- @dizzyav on here
-- @dizzy_af on twitter
+- @dizzyav
 - dizzy#5043 on discord
 - Learning python, messing about
 <!---
